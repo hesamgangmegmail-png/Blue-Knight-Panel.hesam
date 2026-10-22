@@ -24,7 +24,7 @@ binding = "ASSETS"
 # ---------------------------------------------------------------------------
 [[kv_namespaces]]
 binding = "BK_KV"
-id = "YOUR_KV_NAMESPACE_ID"   # <-- replace me
+id = "77f70817952a48448d1c0b123ffdeb0f"   # <-- replace me
 # preview_id = "YOUR_PREVIEW_KV_NAMESPACE_ID"
 
 # NOTE: this file configures Cloudflare *Workers* only. Cloudflare Pages will
